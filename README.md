@@ -21,7 +21,7 @@ Operating Systems. The project covers the following key tasks:
 To run this project on your local machine, follow these steps:
 1. Clone the repository:
  ```bash
- git clone https://github.com/Deepak-Kavia/Operating-System-Simulator.git
+ git clone https://github.com/satyamnitk/OS-Simulator.git
 ```
 2. Run the .exe project
 ## Usage
